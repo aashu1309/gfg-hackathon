@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-inherit: inherit;
+  --font-jost: Jost;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-cornflowerblue: #7475c4;
+
+  /* Paddings */
+  --padding-8xl: 27px;
+
+  /* border radiuses */
+  --br-31xl: 50px;
+}
