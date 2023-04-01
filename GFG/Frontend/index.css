@@ -1,47 +1,43 @@
-.altmedicare,
+.altmedicare1,
+.home,
 .sign-up {
+  position: absolute;
   display: inline-block;
   height: 16px;
 }
-.altmedicare {
-  position: absolute;
+.altmedicare1 {
   top: 55.69px;
   left: 62.43px;
-  font-size: 24px;
+  font-size: var(--font-size-5xl);
   font-weight: 900;
   width: 179px;
 }
+.home,
 .sign-up {
-  left: 728.66px;
+  top: 58.27px;
   font-weight: 500;
   width: 116px;
 }
-.home,
-.sign-up,
-.verify {
-  position: absolute;
-  top: 58.27px;
+.sign-up {
+  left: 728.66px;
 }
 .home {
   left: 302.66px;
-  font-weight: 500;
-  display: inline-block;
-  width: 116px;
-  height: 16px;
 }
 .verify {
+  top: 58.27px;
   left: 444.66px;
 }
 .about,
 .login,
 .verify {
+  position: absolute;
   font-weight: 500;
   display: inline-block;
   width: 116px;
   height: 16px;
 }
 .about {
-  position: absolute;
   top: 60.27px;
   left: 870.66px;
   color: #817b7b;
@@ -50,36 +46,33 @@
   top: 58.27px;
   left: 586.66px;
 }
-.en,
-.login,
-.theme-icon {
+.theme-icon1 {
   position: absolute;
-}
-.theme-icon {
   top: 57.46px;
   left: 1037.23px;
   width: 69.15px;
   height: 31.34px;
 }
-.en {
+.en1 {
+  position: absolute;
   top: 0;
   left: 0;
   font-weight: 500;
 }
-.language-dropdown-child {
+.language-dropdown-item {
   position: absolute;
   top: 7.73px;
   left: 25.65px;
   width: 10.63px;
   height: 5.06px;
 }
-.language-dropdown {
+.language-dropdown1 {
   position: absolute;
   top: 58.27px;
   left: 1132.66px;
   width: 36px;
   height: 18px;
-  font-size: 15px;
+  font-size: var(--font-size-mini);
 }
 .get-started-button {
   cursor: pointer;
@@ -99,10 +92,12 @@
 .homepage-on-mac-book-air-inner,
 .homepage-on-mac-book-air-item {
   position: absolute;
-  top: 516px;
-  left: 62.65px;
   width: 1126.99px;
   height: 8.64px;
+}
+.homepage-on-mac-book-air-item {
+  top: 516px;
+  left: 62.65px;
 }
 .homepage-on-mac-book-air-inner {
   top: 1828px;
@@ -118,11 +113,11 @@
   width: 738.13px;
   height: 214.09px;
 }
-.rectangle-div {
+.homepage-on-mac-book-air-child1 {
   position: absolute;
   top: 573.71px;
   left: 59.53px;
-  border-radius: 5px;
+  border-radius: var(--br-8xs);
   background-color: rgba(217, 217, 217, 0.37);
   box-shadow: 0 2px 20px rgba(0, 0, 0, 0.25);
   width: 1115px;
@@ -151,7 +146,7 @@
   height: 232px;
 }
 .a-website-with-container,
-.homepage-on-mac-book-air-child1,
+.homepage-on-mac-book-air-child2,
 .purpose-of-our {
   position: absolute;
   transform: rotate(-0.29deg);
@@ -166,7 +161,7 @@
   display: inline-block;
   width: 392px;
 }
-.homepage-on-mac-book-air-child1 {
+.homepage-on-mac-book-air-child2 {
   top: 1049.48px;
   left: 105.91px;
   border-radius: var(--br-31xl);
@@ -184,13 +179,13 @@
   height: 25px;
 }
 .alternative-medicare,
-.homepage-on-mac-book-air-child2,
+.homepage-on-mac-book-air-child3,
 .verify-your-medicare {
   position: absolute;
   transform: rotate(-0.29deg);
   transform-origin: 0 0;
 }
-.homepage-on-mac-book-air-child2 {
+.homepage-on-mac-book-air-child3 {
   top: 1045.2px;
   left: 762.31px;
   border-radius: var(--br-31xl);
@@ -210,6 +205,8 @@
 .image-5-icon,
 .line-icon {
   position: absolute;
+}
+.line-icon {
   top: 1058.99px;
   left: 588.66px;
   width: 4px;
@@ -258,11 +255,14 @@
 .privacy-policy,
 .terms-and-conditions {
   position: absolute;
-  top: 1879.27px;
-  left: 151.06px;
   transform: rotate(-0.29deg);
   transform-origin: 0 0;
 }
+.terms-and-conditions {
+  top: 1879.27px;
+  left: 151.06px;
+}
+.contact,
 .privacy-policy {
   top: 1945.16px;
   left: 172.39px;
@@ -271,7 +271,6 @@
 .contact {
   top: 1876.98px;
   left: 609.05px;
-  font-weight: 500;
 }
 .about-us,
 .contact,

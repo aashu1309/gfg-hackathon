@@ -5,21 +5,30 @@ body {
 
 :root {
   /* fonts */
+  --font-hind: Hind;
   --font-inter: Inter;
   --font-inherit: inherit;
   --font-jost: Jost;
 
   /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-mini: 15px;
+  --font-size-5xl: 24px;
   --font-size-xl: 20px;
 
   /* Colors */
   --color-white: #fff;
   --color-black: #000;
+  --color-darkgray: #a8a8a8;
+  --color-darkolivegreen: #466443;
+  --color-lightgray: #cecece;
   --color-cornflowerblue: #7475c4;
 
   /* Paddings */
   --padding-8xl: 27px;
 
   /* border radiuses */
+  --br-8xs: 5px;
+  --br-9xs: 4px;
   --br-31xl: 50px;
 }

@@ -1,0 +1,230 @@
+.loginsignup-child {
+  width: 605px;
+  height: 832px;
+  background-color: #d2e4cc;
+  position: absolute;
+  top: 0;
+  left: 675px;
+}
+
+.loginsignup-item {
+  width: 675px;
+  height: 832px;
+  background: linear-gradient(#f9fcf8, #f9fcf8), #f9fcf8;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.altmedicare {
+  font-size: var(--font-size-5xl);
+  font-weight: 900;
+  font-family: var(--font-inter);
+  width: 179px;
+  height: 16px;
+  transform-origin: 0 0;
+  display: inline-block;
+  top: 46px;
+  left: 46.08px;
+  transform: rotate(.29deg);
+}
+
+.altmedicare, .en, .theme-icon {
+  position: absolute;
+}
+
+.theme-icon {
+  width: 67.04px;
+  height: 30.34px;
+  top: 38px;
+  left: 1107px;
+}
+
+.en {
+  width: 18.42px;
+  height: 17.43px;
+  font-weight: 500;
+  display: inline-block;
+  top: 0;
+  left: 0;
+}
+
+.language-dropdown-child {
+  width: 10.32px;
+  height: 4.93px;
+  position: absolute;
+  top: 7.6px;
+  left: 24.82px;
+}
+
+.language-dropdown {
+  width: 34.9px;
+  height: 17.43px;
+  transform-origin: 0 0;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-inter);
+  position: absolute;
+  top: 44.27px;
+  left: 1199.22px;
+  transform: rotate(.29deg);
+}
+
+.email, .password, .please-enter-your, .welcome-back {
+  transform-origin: 0 0;
+  display: inline-block;
+  position: absolute;
+  transform: rotate(.29deg);
+}
+
+.welcome-back {
+  width: 299.28px;
+  height: 69.5px;
+  font-size: 27px;
+  font-weight: 600;
+  top: 210px;
+  left: 249.35px;
+}
+
+.email, .password, .please-enter-your {
+  width: 158.75px;
+  height: 19.21px;
+}
+
+.please-enter-your {
+  top: 246px;
+  left: 259.35px;
+}
+
+.email, .password {
+  font-weight: 600;
+  top: 339px;
+  left: 170.1px;
+}
+
+.password {
+  top: 415px;
+}
+
+.loginsignup-inner {
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 833px;
+  position: absolute;
+  top: -.5px;
+  left: 674.5px;
+}
+
+.loginsignup-child1, .rectangle-div {
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 296px;
+  height: 27px;
+  position: absolute;
+  left: 170px;
+}
+
+.rectangle-div {
+  top: 366px;
+}
+
+.loginsignup-child1 {
+  top: 442px;
+}
+
+.loginsignup-child2 {
+  background-color: var(--color-darkolivegreen);
+  width: 196px;
+  height: 27px;
+  border-radius: 6px;
+  position: absolute;
+  top: 495px;
+  left: 223px;
+}
+
+.dont-have-an, .enter-your-email {
+  height: 19.21px;
+  transform-origin: 0 0;
+  display: inline-block;
+  position: absolute;
+  transform: rotate(.29deg);
+}
+
+.enter-your-email {
+  color: var(--color-darkgray);
+  width: 158.75px;
+  top: 369px;
+  left: 180.1px;
+}
+
+.dont-have-an {
+  color: var(--color-darkolivegreen);
+  width: 204.9px;
+  top: 529px;
+  left: 235.1px;
+}
+
+.altmedicare-20231, .dont-have-an {
+  font-weight: 500;
+}
+
+.altmedicare-2023 {
+  color: var(--color-darkolivegreen);
+  width: 204.9px;
+  height: 19.21px;
+  top: 796px;
+  left: 25.1px;
+}
+
+.altmedicare-2023, .div, .sign-in {
+  transform-origin: 0 0;
+  display: inline-block;
+  position: absolute;
+  transform: rotate(.29deg);
+}
+
+.div {
+  font-size: var(--font-size-mini);
+  color: var(--color-darkgray);
+  width: 64.71px;
+  height: 29.79px;
+  top: 442px;
+  left: 180.15px;
+}
+
+.sign-in {
+  color: var(--color-white);
+  width: 60.46px;
+  height: 19.21px;
+  font-weight: 500;
+  top: 498px;
+  left: 299.1px;
+}
+
+.image-9-icon {
+  width: 577px;
+  height: 539px;
+  object-fit: cover;
+  position: absolute;
+  top: 277px;
+  left: 680px;
+}
+
+.loginsignup {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 100%;
+  height: 832px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-hind);
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=login-signup.7823ea7f.css.map */

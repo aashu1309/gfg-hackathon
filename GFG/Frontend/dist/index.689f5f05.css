@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --font-hind: Hind;
+  --font-inter: Inter;
+  --font-inherit: inherit;
+  --font-jost: Jost;
+  --font-size-xs: 12px;
+  --font-size-mini: 15px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkgray: #a8a8a8;
+  --color-darkolivegreen: #466443;
+  --color-lightgray: #cecece;
+  --color-cornflowerblue: #7475c4;
+  --padding-8xl: 27px;
+  --br-8xs: 5px;
+  --br-9xs: 4px;
+  --br-31xl: 50px;
+}
+
+/*# sourceMappingURL=index.689f5f05.css.map */
