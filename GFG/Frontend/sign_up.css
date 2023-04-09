@@ -1,0 +1,283 @@
+.signup-child,
+.signup-item {
+  position: absolute;
+  top: 0;
+  height: 832px;
+}
+.signup-child {
+  left: 675px;
+  background-color: #d2e4cc;
+  width: 905px;
+}
+.signup-item {
+  left: 0;
+  background: linear-gradient(#f9fcf8, #f9fcf8), #f9fcf8;
+  width: 675px;
+}
+.altmedicare {
+  position: absolute;
+  top: 46px;
+  left: 46.08px;
+  font-size: 24px;
+  font-weight: 900;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 179px;
+  height: 16px;
+  transform: rotate(0.29deg);
+  transform-origin: 0 0;
+}
+.en,
+.theme-icon {
+  position: absolute;
+  top: 38px;
+  left: 1107px;
+  width: 67.04px;
+  height: 30.34px;
+}
+.en {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 18.42px;
+  height: 17.43px;
+}
+.language-dropdown-child {
+  position: absolute;
+  top: 7.6px;
+  left: 24.82px;
+  width: 10.32px;
+  height: 4.93px;
+}
+.language-dropdown {
+  position: absolute;
+  top: 44.27px;
+  left: 1199.22px;
+  width: 34.9px;
+  height: 17.43px;
+  transform: rotate(0.29deg);
+  transform-origin: 0 0;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-inter);
+}
+.email,
+.first-name,
+.please-enter-your,
+.register-yourself {
+  position: absolute;
+  display: inline-block;
+  transform: rotate(0.29deg);
+  transform-origin: 0 0;
+}
+.register-yourself {
+  top: 205px;
+  left: 225.35px;
+  font-size: 27px;
+  font-weight: 600;
+  width: 299.28px;
+  height: 69.5px;
+}
+.email,
+.first-name,
+.please-enter-your {
+  top: 256px;
+  left: 259.1px;
+  width: 158.75px;
+  height: 19.21px;
+}
+.email,
+.first-name {
+  top: 339px;
+  left: 170.1px;
+  font-weight: 600;
+}
+.email {
+  top: 415px;
+}
+.rectangle-div,
+.signup-inner {
+  position: absolute;
+  box-sizing: border-box;
+}
+.signup-inner {
+  top: -0.5px;
+  left: 674.5px;
+  border-right: 1px solid var(--color-black);
+  width: 1px;
+  height: 833px;
+}
+.rectangle-div {
+  top: 366px;
+  left: 170px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray);
+  width: 124px;
+  height: 27px;
+}
+.last-name {
+  position: absolute;
+  top: 339px;
+  left: 339.1px;
+  font-weight: 600;
+  display: inline-block;
+  width: 158.75px;
+  height: 19.21px;
+  transform: rotate(0.29deg);
+  transform-origin: 0 0;
+}
+.rectangle-input,
+.signup-child1 {
+  border: 1px solid var(--color-lightgray);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 366px;
+  left: 339px;
+  border-radius: var(--br-9xs);
+  box-sizing: border-box;
+  width: 127px;
+  height: 27px;
+}
+.signup-child1 {
+  top: 442px;
+  left: 170px;
+  width: 296px;
+}
+.password {
+  position: absolute;
+  top: 493px;
+  left: 170.1px;
+  font-weight: 600;
+  display: inline-block;
+  width: 158.75px;
+  height: 19.21px;
+  transform: rotate(0.29deg);
+  transform-origin: 0 0;
+}
+.signup-child2 {
+  position: absolute;
+  top: 520px;
+  left: 170px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 296px;
+  height: 27px;
+}
+.signup-child3 {
+  position: absolute;
+  top: 605px;
+  left: 225px;
+  border-radius: 6px;
+  background-color: var(--color-darkolivegreen);
+  width: 196px;
+  height: 27px;
+}
+.already-have-an,
+.enter-your-email,
+.enter-your-name {
+  position: absolute;
+  top: 369px;
+  left: 180.1px;
+  color: var(--color-darkgray);
+  display: inline-block;
+  width: 158.75px;
+  height: 19.21px;
+  transform: rotate(0.29deg);
+  transform-origin: 0 0;
+}
+.already-have-an,
+.enter-your-email {
+  top: 446px;
+  left: 178.1px;
+}
+.already-have-an {
+  top: 639px;
+  left: 237.1px;
+  font-weight: 500;
+  color: var(--color-darkolivegreen);
+  width: 204.9px;
+}
+.altmedicare-20231 {
+  font-weight: 500;
+}
+.altmedicare-2023 {
+  top: 796px;
+  left: 25.1px;
+  color: var(--color-darkolivegreen);
+  width: 204.9px;
+  height: 19.21px;
+}
+.altmedicare-2023,
+.div,
+.sign-up {
+  position: absolute;
+  display: inline-block;
+  transform: rotate(0.29deg);
+  transform-origin: 0 0;
+}
+.div {
+  top: 519px;
+  left: 180.15px;
+  font-size: var(--font-size-mini);
+  color: var(--color-darkgray);
+  width: 64.71px;
+  height: 29.79px;
+}
+.sign-up {
+  top: 608px;
+  left: 301.1px;
+  font-weight: 500;
+  color: var(--color-white);
+  width: 60.46px;
+  height: 19.21px;
+}
+.image-9-icon {
+  position: absolute;
+  top: 277px;
+  left: 680px;
+  width: 577px;
+  height: 539px;
+  object-fit: cover;
+}
+.signup {
+  position: relative;
+  border-radius: 5px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-hind);
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-hind: Hind;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkgray: #a8a8a8;
+  --color-darkolivegreen: #466443;
+  --color-lightgray: #cecece;
+
+  /* border radiuses */
+  --br-9xs: 4px;
+}
